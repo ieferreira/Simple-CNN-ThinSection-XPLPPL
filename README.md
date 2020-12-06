@@ -23,6 +23,8 @@ The Training dataset and valitadion dataset were splitted 80% - 20% and data aug
 ### Training and Validation Accuracy
 ![Matplotlib graph with train and val acc](trainvalacc.png)
 
+Maybe should have continued with more epochs... 
+
 ### Training and Validation Loss
 ![Matplotlib graph with train and val loss](trainvalloss.png)
 

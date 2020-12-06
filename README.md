@@ -23,7 +23,7 @@ The Training dataset and valitadion dataset were splitted 80% - 20% and data aug
 
 Standard model for binary classification with data augmentation:
 
-<img width="200" alt="Standard model used" src="model.png">
+<img width="400" alt="Standard model used" src="model.png">
 
 
 

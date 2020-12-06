@@ -1,6 +1,6 @@
 # Simple CNN Thin Section XPL or PPL Classifier
  
-Trained model (contained in model folder) where an .h5 keras model is used for distinguishing between PPL and XPL thin sections
+Trained model (contained in model folder) where a pre-trained .h5 keras model (trained using 2180 images) is used for distinguishing between PPL and XPL thin sections
 
 ### Example of result given in the notebook (.ipynb)
 

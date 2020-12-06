@@ -4,7 +4,7 @@ Trained model (contained in model folder) where an .h5 keras model is used for d
 
 ### Example of result given in the notebook (.ipynb)
 
-![Classified XPL heart](imageNN.png)
+![Classified XPL heart](result1.png)
 
 ### Result of classification on XPL and PPL in test images
 

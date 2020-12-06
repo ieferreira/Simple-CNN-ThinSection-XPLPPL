@@ -35,5 +35,4 @@ Maybe should have continued with more epochs...
 ### Training and Validation Loss
 ![Matplotlib graph with train and val loss](trainvalloss.png)
 
-
-
+-- UNAL, Iván Ferreira

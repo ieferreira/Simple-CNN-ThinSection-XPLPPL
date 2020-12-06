@@ -19,6 +19,12 @@ The Training dataset and valitadion dataset were splitted 80% - 20% and data aug
 ### Accuracy on training set: 94%
 ### Accuracy on validation set: 88%
 
+### Model Used
+
+Standard model for binary classification with data augmentation:
+
+![Standard model used](model.png)
+
 
 ### Training and Validation Accuracy
 ![Matplotlib graph with train and val acc](trainvalacc.png)
